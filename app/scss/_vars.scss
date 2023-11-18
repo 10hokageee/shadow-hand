@@ -1,0 +1,26 @@
+@import 'mixin';
+
+$black: #000;
+$title: #4E4B66;
+$gray: #F7F7FC;
+$blue: #5F2EEA;
+$dark-blue: #2A00A2;
+$burgerWidth: 28px; 
+$burgerHeight: 18px; 
+$burgerLineHeight: 4px; 
+$burgerColor: #5F2EEA; 
+
+%poppins-400 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+}
+
+%poppins-600 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+}
+
+%poppins-700 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+}
